@@ -98,8 +98,6 @@ m1-competition-forecasting/
 
 ## Example
 
-![Forecast Example](docs/images/forecast_example.png)
-
 ```python
 # Quick start example
 from src.forecasting import analyze_series
